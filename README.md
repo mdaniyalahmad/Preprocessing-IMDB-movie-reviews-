@@ -28,9 +28,6 @@ This project demonstrates **text preprocessing** and **sentiment analysis** on t
 
 ---
 
-## **How to Run**
+**Dataset:** [IMDB 50k Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
-1. Clone or download the repo.
-2. Open the notebook in **Colab** or **Jupyter Notebook**.
-3. Run all cells sequentially.  
 
